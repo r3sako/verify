@@ -1,0 +1,15 @@
+sat
+(
+(define-fun x1_low () Int 1)
+(define-fun x1_high () Int 0)
+(define-fun y1_low () Int 0)
+(define-fun y1_high () Int 0)
+(define-fun z1_low () Int 0)
+(define-fun z1_high () Int 0)
+(define-fun x2_low () Int 1)
+(define-fun x2_high () Int 0)
+(define-fun y2_low () Int 0)
+(define-fun y2_high () Int 0)
+(define-fun z2_low () Int 1)
+(define-fun z2_high () Int 0)
+)

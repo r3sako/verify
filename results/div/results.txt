@@ -1,0 +1,15 @@
+--------------------------------
+База: unsat
+no_quot_rem_range: sat
+no_rem_denom: sat
+no_denom0: sat
+no_all_rem: sat
+no_equation: unsat
+Boundary 100_7 (100 / 7): unsat
+Boundary max_1 (4294967295 / 1): unsat
+Boundary 0_5 (0 / 5): unsat
+Boundary 42_0 (42 / 0): unsat
+Boundary 2^31_1 (2147483648 / 1): unsat
+Boundary max_max (4294967296 / 4294967295): unsat
+Boundary 1_0 (1 / 0): unsat
+

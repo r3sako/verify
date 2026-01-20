@@ -1,0 +1,1 @@
+(error "Parse Error: temp_no_mod_p.smt2:54.13: Expected SMT-LIBv2 command, got `mod` (SYMBOL).")

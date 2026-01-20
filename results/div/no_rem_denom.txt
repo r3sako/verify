@@ -1,0 +1,9 @@
+sat
+(
+(define-fun numer () Int 6)
+(define-fun denom () Int 2)
+(define-fun quot1 () Int 2)
+(define-fun rem1 () Int 2)
+(define-fun quot2 () Int 3)
+(define-fun rem2 () Int 0)
+)

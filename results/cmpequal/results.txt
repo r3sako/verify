@@ -1,0 +1,14 @@
+Анализ модели CMPEQUAL: models/cmpequal/cmpequal.smt2
+----------------------------------------
+1. База: unsat
+no_range: unsat
+no_mod_p: unsat
+Boundary max_max (a=65535/65535, b=65535/65535): unsat
+Boundary zero_zero (a=0/0, b=0/0): unsat
+Boundary one_one (a=1/0, b=1/0): unsat
+Boundary max_zero (a=65535/65535, b=0/0): unsat
+Boundary zero_max (a=0/0, b=65535/65535): unsat
+Boundary one_max (a=1/0, b=65535/65535): unsat
+Boundary max_one (a=65535/65535, b=1/0): unsat
+
+Готово. Результаты: results/cmpequal/results.txt

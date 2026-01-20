@@ -1,0 +1,15 @@
+Анализ модели сложения: models/add/add.smt2
+----------------------------------------
+1. База: unsat
+no_carry: unsat
+no_out_range: unsat
+no_byte_range: unsat
+no_mod_p: (error "Parse Error: temp_no_mod_p.smt2:54.13: Expected SMT-LIBv2 command, got `mod` (SYMBOL).")
+Boundary max_max (a=65535/65535, b=65535/65535): unsat
+Boundary zero_zero (a=0/0, b=0/0): unsat
+Boundary max_one (a=65535/65535, b=1/0): unsat
+Boundary one_max (a=1/0, b=65535/65535): unsat
+Boundary overflow_carry (a=65535/0, b=1/0): unsat
+Boundary high_overflow (a=0/65535, b=0/1): unsat
+
+Готово. Результаты: results/add/results.txt

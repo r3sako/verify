@@ -1,0 +1,13 @@
+--------------------------------
+1. База: unsat
+no_carryExtra: unsat
+no_carryByte: unsat
+no_out_upper: unsat
+no_byte_range: unsat
+no_full_check: unsat
+Boundary max_max (a байты=255, b байты=255): unsat
+Boundary zero_zero (a байты=0, b байты=0): unsat
+Boundary one_max (a байты=1, b байты=255): unsat
+Boundary max_one (a байты=255, b байты=1): unsat
+Boundary max_zero (a байты=255, b байты=0): unsat
+Boundary zero_max (a байты=0, b байты=255): unsat

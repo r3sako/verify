@@ -1,0 +1,14 @@
+Анализ модели XOR: models/xor/xor.smt2
+----------------------------------------
+1. База: unsat
+no_range: unsat
+no_mod_p: unsat
+no_zero_exclude: unsat
+Boundary max_max (x=65535/65535, y=65535/65535): unsat
+Boundary zero_zero (x=0/0, y=0/0): unsat
+Boundary one_max (x=1/0, y=65535/65535): unsat
+Boundary max_one (x=65535/65535, y=1/0): unsat
+Boundary max_zero (x=65535/65535, y=0/0): unsat
+Boundary zero_max (x=0/0, y=65535/65535): unsat
+
+Готово. Результаты: results/xor/results.txt
