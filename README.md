@@ -26,5 +26,3 @@ This project provides an SMT-based verifier for arithmetic and bitwise instructi
 ## Nondeterminism Analysis
 Weaken constraints (e.g., ranges, equations) to detect potential nondeterminism. sat results indicate where constraints are critical.
 
-## License
-MIT License.
